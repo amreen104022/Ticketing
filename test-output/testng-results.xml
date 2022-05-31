@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-25T10:42:17 IST" name="Default suite" finished-at="2022-05-25T10:43:32 IST" duration-ms="75301">
+    <groups>
+    </groups>
+    <test started-at="2022-05-25T10:42:17 IST" name="Default test" finished-at="2022-05-25T10:43:32 IST" duration-ms="75301">
+      <class name="com.ticketingSystem.Script.PlayPauseScript">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:42:17 IST" name="launchBrowser" finished-at="2022-05-25T10:42:31 IST" duration-ms="14848" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="openApp()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:42:31 IST" name="openApp" finished-at="2022-05-25T10:42:41 IST" duration-ms="9688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="test_01()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:42:41 IST" name="test_01" finished-at="2022-05-25T10:42:43 IST" duration-ms="1496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:42:43 IST" name="tearDown" finished-at="2022-05-25T10:42:47 IST" duration-ms="4546" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_01 status=SUCCESS method=PlayPauseScript.test_01()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="test_02()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:42:47 IST" name="test_02" finished-at="2022-05-25T10:42:48 IST" duration-ms="1080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:42:48 IST" name="tearDown" finished-at="2022-05-25T10:42:52 IST" duration-ms="4281" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_02 status=SUCCESS method=PlayPauseScript.test_02()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="test_03()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:42:52 IST" name="test_03" finished-at="2022-05-25T10:42:54 IST" duration-ms="1784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_03 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:42:54 IST" name="tearDown" finished-at="2022-05-25T10:42:59 IST" duration-ms="4279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_03 status=SUCCESS method=PlayPauseScript.test_03()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="test_04()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:42:59 IST" name="test_04" finished-at="2022-05-25T10:43:00 IST" duration-ms="1364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_04 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:43:00 IST" name="tearDown" finished-at="2022-05-25T10:43:04 IST" duration-ms="4283" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_04 status=SUCCESS method=PlayPauseScript.test_04()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="test_05()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:43:04 IST" name="test_05" finished-at="2022-05-25T10:43:05 IST" duration-ms="1076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_05 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:43:05 IST" name="tearDown" finished-at="2022-05-25T10:43:10 IST" duration-ms="4287" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_05 status=SUCCESS method=PlayPauseScript.test_05()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="test_06()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:43:10 IST" name="test_06" finished-at="2022-05-25T10:43:12 IST" duration-ms="2181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_06 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:43:12 IST" name="tearDown" finished-at="2022-05-25T10:43:16 IST" duration-ms="4305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_06 status=SUCCESS method=PlayPauseScript.test_06()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="test_07()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:43:16 IST" name="test_07" finished-at="2022-05-25T10:43:17 IST" duration-ms="1370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_07 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:43:17 IST" name="tearDown" finished-at="2022-05-25T10:43:22 IST" duration-ms="4262" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_07 status=SUCCESS method=PlayPauseScript.test_07()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:43:22 IST" name="closeApp" finished-at="2022-05-25T10:43:28 IST" duration-ms="6471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:43:28 IST" name="endReport" finished-at="2022-05-25T10:43:31 IST" duration-ms="3023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.ticketingSystem.Script.PlayPauseScript@1e7f2e0f]" started-at="2022-05-25T10:43:31 IST" name="closeBrowser" finished-at="2022-05-25T10:43:32 IST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.ticketingSystem.Script.PlayPauseScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
